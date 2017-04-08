@@ -11,4 +11,5 @@
 ## For Operators
 
 * [Quick Start](for-operators/quick-start.md)
+* [Status Pages](for-operators/status-pages.md)
 
